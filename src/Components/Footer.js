@@ -61,6 +61,10 @@ const Footer = () => {
       ...styles,
       backgroundColor: theme.typeBoxText,
     }),
+    "@media (max-width: 650px)": {
+      height: open ? "100%" : "0px",
+      visibility: open ? "visible" : "hidden",
+    },
   });
 
   return (
@@ -93,6 +97,7 @@ const Footer = () => {
             onBlur={() => setOpen(false)}
             menuIsOpen
             styles={myStyles(open)}
+            className="select-btn"
           />
         </div>
       </div>
