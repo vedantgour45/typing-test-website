@@ -1,3 +1,31 @@
+# Typing Test Website with Time Modes and Themes
+
+Welcome to Keys To Success. Are you ready to challenge yourself and enhance your typing skills? Our platform offers a variety of time modes to suit your preferences, allowing you to track your performance with metrics like words per minute (WPM), accuracy, and more. The detailed chart representations provide valuable insights into your progress.
+
+## Features
+
+- **Multiple Time Modes:** Choose from a range of time modes to find the one that suits you best. Whether you're looking for a quick warm-up or an in-depth typing session, we've got you covered.
+
+- **Comprehensive Stats:** Keep track of your typing speed, measured in words per minute, and assess your accuracy to see how you're improving over time.
+
+- **Interactive Charts:** Dive into detailed visualizations that showcase your typing performance over various sessions. Identify patterns, improvements, and areas that need more practice.
+
+- **Personalized Themes:** Customize your typing experience by selecting from a collection of themes. Find the one that matches your style and keeps you engaged.
+
+## Screenshots
+
+Here are a few screenshots to give you a glimpse of what to expect:
+
+![image](https://github.com/vedantgour45/typing-test-website/assets/113295244/a183df36-5fea-429d-81c3-1be332edcab9)
+![image](https://github.com/vedantgour45/typing-test-website/assets/113295244/bd6f7b0a-0fb3-43bc-a580-48a20ff21169)
+![image](https://github.com/vedantgour45/typing-test-website/assets/113295244/70e59554-d998-43f9-af0f-03c1fdcfbba1)
+![image](https://github.com/vedantgour45/typing-test-website/assets/113295244/93be174b-2f7d-4414-a748-d3753387a56d)
+![image](https://github.com/vedantgour45/typing-test-website/assets/113295244/38261f4d-f8ff-4479-859c-f6b9b768d8cd)
+
+## Deployed Version
+
+Check out the deployed version of the Typing Test Website [here](https://keys-to-success-typing-test.netlify.app).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
