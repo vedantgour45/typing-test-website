@@ -526,7 +526,7 @@ export const GlobalStyle = createGlobalStyle`
     @media (max-width: 650px) {
 
         * {
-        font-size: 90%;
+            font-size: 90%;
         }
 
         .canvas{
@@ -537,9 +537,6 @@ export const GlobalStyle = createGlobalStyle`
         .type-box {
             width: 100vw;
             height: 600px;
-        }
-
-        .words {
         }
 
         .upper-menu {
