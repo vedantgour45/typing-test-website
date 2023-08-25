@@ -343,6 +343,11 @@ export const GlobalStyle = createGlobalStyle`
         width: 1000px;
     }
 
+    .table {
+        height: 100vh;
+        overflow-y:auto;
+    }
+
     .graph-user-page {
         margin-bottom: 2rem;
     }
@@ -562,10 +567,6 @@ export const GlobalStyle = createGlobalStyle`
             align-items: center;
             justify-content: center;
             gap: 3rem;
-        }
-
-        .css-1ph7lfg-control, .css-cs1px1-control {
-            width: 100px;
         }
 
         .themeButton {

@@ -2,7 +2,7 @@ import React from "react";
 import { useTestMode } from "../Context/TestModeContext";
 import RestartAltIcon from "@mui/icons-material/RestartAlt";
 import { Tooltip } from "@mui/material";
-// import { useEffect } from "react";
+import { useEffect } from "react";
 
 const UpperMenu = ({ countDown, reset }) => {
   const { setTestTime } = useTestMode();
@@ -11,13 +11,13 @@ const UpperMenu = ({ countDown, reset }) => {
     setTestTime(Number(event.target.id));
   };
 
-  // useEffect(() => {
-  //   window.scrollTo({
-  //     top: 0,
-  //     left: 0,
-  //     behavior: "smooth",
-  //   });
-  // }, [updateTime]);
+  useEffect(() => {
+    window.scrollTo({
+      top: 0,
+      left: 0,
+      behavior: "smooth",
+    });
+  }, [updateTime]);
 
   return (
     <div className="upper-menu">
